@@ -1,6 +1,5 @@
 /*
  Name: Asaif A Butt
- ZNumber: Z23295634
  Date: 7.3.16
  Course: Design Analysis of ALgorithms
  Description: The program creates a 2D table 10 rows and 20000 coloumns of vectors with random elements.
